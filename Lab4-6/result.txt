@@ -1,0 +1,6 @@
+Square side: 10
+Square area: 100
+Square border length: 40
+Circle radius: 5
+Circle area: 78.5398
+Circle border length: 31.4159
